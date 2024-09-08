@@ -1,0 +1,13 @@
+/* styles.css */
+
+.heading {
+    color: gray;
+}
+
+.text {
+    color: black;
+}
+
+.images {
+    max-width: 1em
+}
