@@ -5,9 +5,9 @@
 }
 
 .text {
-    color: black;
+    color: rgb(155, 78, 78);
 }
 
 .images {
-    max-width: 1em;
+    width: 30%;
 }
